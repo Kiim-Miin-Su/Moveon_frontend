@@ -2,6 +2,8 @@
 
 # dependencies
 node_modules/
+.history
+.vscode
 
 # Expo
 .expo/
@@ -41,3 +43,7 @@ app-example
 # generated native folders
 /ios
 /android
+
+# security
+.env
+.cursorignore
